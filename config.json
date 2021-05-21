@@ -1,0 +1,29 @@
+{
+
+
+  "params":
+  {
+   "Local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql://root:@localhost/codingthunder",
+    "tw_url": "https://twitter.com/codingthunder",
+    "fb_url": "https://facebook.com/codingthunder",
+    "gt_url": "https://github.com/codingthunder",
+    "brand_name": "CODING THUNDER",
+    "blog_name": "Coding Thunder",
+    "gmail-user": "lickmeup555@gmail.com  ",
+    "gmail-pass": "Pioneer@555",
+    "about_text": "Queen Consolidated is the best It Companies ever exist on earth Grappling with the competions, since 1995.",
+    "no_of_post": "2",
+    "login_img": "login.svg",
+    "admin_user": "Junaid",
+    "admin_password": "JunaidSaifi",
+   "upload_location": "C:\\Users\\saifi\\PycharmProjects\\coding project"
+
+
+
+
+  }
+
+
+}
